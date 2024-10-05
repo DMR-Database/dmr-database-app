@@ -87780,7 +87780,7 @@ break
 case 4:throw A.d("Could not launch "+a)
 case 3:return A.p(null,r)}})
 return A.q($async$uh,r)},
-G(a){var s=null,r=A.dm(s,!0,B.Z,!0,0,B.a08),q=A.bp(a,s,t.l).w
+G(a){var s=null,r=A.dm(s,!0,B.Z,!0,0,B.a0a),q=A.bp(a,s,t.l).w
 return A.dk(new A.cV(r,B.af,s),A.cb(s,A.ev(A.bP(A.a([B.a1,B.a_H,B.l_,this.Fd(a,B.I_,"https://forms.gle/wbsjHU6spU8NGFnb7","Give us Feedback"),this.Fd(a,B.I0,"https://github.com/DMR-Database/dmr-database-app/issues/new/choose","Report an Issue"),this.Fd(a,B.nK,"mailto:albert@einstein.amsterdam","Contact us via Email")],t.p),B.am,B.v,B.t),B.Y),B.m,s,s,B.ai,q.a.b,s,s,s),!1)},
 Fd(a,b,c,d){var s=null,r=A.hR(12)
 return A.iC(A.tO(!1,A.hR(12),!0,new A.bl(B.nh,A.fn(A.a([A.jG(b,B.k,s,s),B.zN,A.eW(A.ad(d,s,s,s,B.aY,s,s),1)],t.p),B.z,B.v,B.t),s),s,!0,s,s,s,s,s,s,s,s,s,new A.a1D(this,c),s,s,s,s),5,B.bz,new A.ce(r,B.o))}}
@@ -87791,13 +87791,13 @@ A.ya.prototype={
 a5(){return new A.Rf()}}
 A.Rf.prototype={
 aj9(a,b,c,d){A.x1(!0,new A.amg(b,c,d),a,t.z)},
-G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a0l),p=A.bp(a,r,t.l).w
-return A.dk(new A.cV(q,B.af,r),A.cb(r,A.ev(A.bP(A.a([B.a1,B.a_S,B.l_,s.yc(a,"A reliable VoIP service for ham radio operators.",B.h6,"Hamvoip: 325","https://www.hamvoip.nl","Hamvoip"),s.yc(a,"Free VoIP service for ham radio enthusiasts.",B.h6,"Hamshack Hotline: 5500606","https://hamshackhotline.com","Hamshack Hotline"),s.yc(a,"A worldwide VoIP network for ham radio users.",B.h6,"HamsoverIP: 200216","https://hamsoverip.com","HamsoverIP"),s.yc(a,"Private VoIP service for hackerspace communication.",B.h6,"Hackerspace VoIP: *private*","https://hackerspaces.org","Hackerspace VoIP")],t.p),B.am,B.v,B.t),B.Y),B.m,r,r,B.ai,p.a.b,r,r,r),!1)},
+G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a0n),p=A.bp(a,r,t.l).w
+return A.dk(new A.cV(q,B.af,r),A.cb(r,A.ev(A.bP(A.a([B.a1,B.a_T,B.l_,s.yc(a,"A reliable VoIP service for ham radio operators.",B.h6,"Hamvoip: 325","https://www.hamvoip.nl","Hamvoip"),s.yc(a,"Free VoIP service for ham radio enthusiasts.",B.h6,"Hamshack Hotline: 5500606","https://hamshackhotline.com","Hamshack Hotline"),s.yc(a,"A worldwide VoIP network for ham radio users.",B.h6,"HamsoverIP: 200216","https://hamsoverip.com","HamsoverIP"),s.yc(a,"Private VoIP service for hackerspace communication.",B.h6,"Hackerspace VoIP: *private*","https://hackerspaces.org","Hackerspace VoIP")],t.p),B.am,B.v,B.t),B.Y),B.m,r,r,B.ai,p.a.b,r,r,r),!1)},
 yc(a,b,c,d,e,f){var s=null,r=A.hR(12)
 return A.iC(A.tO(!1,A.hR(12),!0,new A.bl(B.nh,A.fn(A.a([A.jG(c,B.k,s,s),B.zN,A.eW(A.ad(d,s,s,s,B.aY,s,s),1)],t.p),B.z,B.v,B.t),s),s,!0,s,s,s,s,s,s,s,s,s,new A.amd(this,a,f,b,e),s,s,s,s),5,B.bz,new A.ce(r,B.o))}}
 A.amg.prototype={
 $1(a){var s=null,r=A.ad(this.a,s,s,s,s,s,s),q=A.ad(this.b,s,s,s,s,s,s)
-return A.Io(A.a([A.nO(B.a0o,new A.ame(this.c),s),A.nO(B.la,new A.amf(a),s)],t.p),q,r)},
+return A.Io(A.a([A.nO(B.a0q,new A.ame(this.c),s),A.nO(B.la,new A.amf(a),s)],t.p),q,r)},
 $S:62}
 A.ame.prototype={
 $0(){var s=0,r=A.r(t.H),q=this,p,o
@@ -87836,7 +87836,7 @@ return A.l(A.acG(),$async$yN)
 case 2:q.W(new p.amh(q,b))
 return A.p(null,r)}})
 return A.q($async$yN,r)},
-G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a07),p=A.bp(a,r,t.l).w
+G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a09),p=A.bp(a,r,t.l).w
 return A.dk(new A.cV(q,B.af,r),A.cb(r,new A.bl(B.Y,A.bP(A.a([B.a1,B.a0G,B.l_,B.a1,s.Ok("Version",s.d),B.a1,s.Ok("Build Number",s.e)],t.p),B.am,B.v,B.t),r),B.m,r,r,B.ai,p.a.b,r,r,r),!1)},
 Ok(a,b){var s=null,r=A.hR(12),q=A.ad(a,s,s,s,B.A7,s,s)
 return A.iC(new A.bl(B.Y,A.fn(A.a([q,A.ad(b.length===0?"Loading...":b,s,s,s,B.i6,s,s)],t.p),B.z,B.d1,B.t),s),5,B.bz,new A.ce(r,B.o))}}
@@ -87851,7 +87851,7 @@ A.bD(a,!1).d1(s)},
 afu(a){var s=A.di(new A.a1E(),null,t.z)
 A.bD(a,!1).d1(s)},
 G(a){var s=this,r=null,q=t.p
-return A.dk(new A.cV(A.dm(A.a([A.zi(r,B.Iz,18,new A.a1G(s,a),r,r)],q),!0,B.Z,!0,0,B.a03),B.af,r),A.cb(r,A.ev(A.bP(A.a([s.tM(a,"Online Contact Info","Get in touch through email or issue tracker.",B.nK,new A.a1H(s,a)),s.tM(a,"Phone Contact Info","Reach us via phone services like Hamshack Hotline.",B.I9,new A.a1I(s,a)),s.tM(a,"Application Info",u.M,B.jB,new A.a1J(s,a)),s.tM(a,"Privacy Policy","Read our privacy policy and practices.",B.Ia,new A.a1K(s,a)),s.tM(a,"Thank You to Testers","A special thanks to all our testers for their support!",B.jC,new A.a1L(s,a))],q),B.z,B.v,B.t),r),B.m,r,r,B.ai,1/0,r,B.Y,1/0),!1)},
+return A.dk(new A.cV(A.dm(A.a([A.zi(r,B.Iz,18,new A.a1G(s,a),r,r)],q),!0,B.Z,!0,0,B.a05),B.af,r),A.cb(r,A.ev(A.bP(A.a([s.tM(a,"Online Contact Info","Get in touch through email or issue tracker.",B.nK,new A.a1H(s,a)),s.tM(a,"Phone Contact Info","Reach us via phone services like Hamshack Hotline.",B.I9,new A.a1I(s,a)),s.tM(a,"Application Info",u.M,B.jB,new A.a1J(s,a)),s.tM(a,"Privacy Policy","Read our privacy policy and practices.",B.Ia,new A.a1K(s,a)),s.tM(a,"Thank You to Testers","A special thanks to all our testers for their support!",B.jC,new A.a1L(s,a))],q),B.z,B.v,B.t),r),B.m,r,r,B.ai,1/0,r,B.Y,1/0),!1)},
 tM(a,b,c,d,e){var s=null,r=A.hR(12),q=A.jG(d,B.k,s,s),p=A.ad(b,s,s,s,s,s,s)
 return A.iC(A.A0(q,e,A.ad(c,s,s,s,s,s,s),p),5,B.bz,new A.ce(r,B.o))}}
 A.a1F.prototype={
@@ -87928,7 +87928,7 @@ var $async$tf=A.t(function(c,d){if(c===1)return A.o(d,r)
 while(true)switch(s){case 0:s=3
 return A.l(p.gjG(),$async$tf)
 case 3:o=d
-n="SELECT * FROM radioid WHERE "+a+' LIKE "'+b+'"'
+n="SELECT * FROM radioid WHERE "+a+" LIKE '"+b+"'"
 A.ci(n)
 s=4
 return A.l(o.rI(n),$async$tf)
@@ -87943,8 +87943,8 @@ var $async$td=A.t(function(c,d){if(c===1)return A.o(d,r)
 while(true)switch(s){case 0:s=3
 return A.l(p.gjG(),$async$td)
 case 3:o=d
-n="SELECT * FROM hamvoip WHERE "+a+' LIKE "'+b+'"'
-A.ci(n)
+n="SELECT * FROM hamvoip WHERE "+a+" LIKE '"+b+"'"
+A.ci("Query: "+n)
 s=4
 return A.l(o.rI(n),$async$td)
 case 4:q=d
@@ -87958,7 +87958,7 @@ var $async$tc=A.t(function(c,d){if(c===1)return A.o(d,r)
 while(true)switch(s){case 0:s=3
 return A.l(p.gjG(),$async$tc)
 case 3:o=d
-n="SELECT * FROM dapnet WHERE "+a+' LIKE "'+b+'"'
+n="SELECT * FROM dapnet WHERE "+a+" LIKE '"+b+"'"
 A.ci(n)
 s=4
 return A.l(o.rI(n),$async$tc)
@@ -87973,7 +87973,7 @@ var $async$te=A.t(function(c,d){if(c===1)return A.o(d,r)
 while(true)switch(s){case 0:s=3
 return A.l(p.gjG(),$async$te)
 case 3:o=d
-n="SELECT * FROM rptrs WHERE "+a+' LIKE "'+b+'"'
+n="SELECT * FROM rptrs WHERE "+a+" LIKE '"+b+"'"
 A.ci(n)
 s=4
 return A.l(o.rI(n),$async$te)
@@ -88381,8 +88381,8 @@ break
 case 5:return A.p(null,r)
 case 1:return A.o(p,r)}})
 return A.q($async$ob,r)},
-G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a0u),p=s.yb(B.h7,"Update RadioID",B.ew,"Clear RadioID",new A.an0(s),new A.an1(s)),o=s.yb(B.h7,"Update HamVoIP",B.ew,"Clear HamVoIP",new A.an2(s),new A.an3(s)),n=s.yb(B.h7,"Update DAPNET",B.ew,"Clear DAPNET",new A.an4(s),new A.an5(s)),m=s.yb(B.h7,"Update Repeaters",B.ew,"Clear Repeaters",new A.an6(s),new A.an7(s)),l=s.y?r:s.ga9F(),k=t.p
-return A.dk(new A.cV(q,B.af,r),A.bP(A.a([A.eW(A.cb(r,new A.bl(B.Y,A.ev(A.bP(A.a([p,B.cD,o,B.cD,n,B.cD,m,B.a1,A.pc(B.IF,B.a05,l,A.pd(r,r,B.eQ,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r)),B.a1,A.pc(B.Ix,B.a_z,new A.an8(s),A.pd(r,r,B.hr,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r)),B.UT,A.pc(B.ID,B.a0A,new A.an9(s),A.pd(r,r,B.eQ,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r)),B.a1,A.pc(B.Iy,B.a0r,new A.ana(s),A.pd(r,r,B.eP,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r))],k),B.am,B.v,B.t),r),r),B.m,r,r,B.ai,r,r,r,r),1)],k),B.z,B.v,B.t),!1)},
+G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a0v),p=s.yb(B.h7,"Update RadioID",B.ew,"Clear RadioID",new A.an0(s),new A.an1(s)),o=s.yb(B.h7,"Update HamVoIP",B.ew,"Clear HamVoIP",new A.an2(s),new A.an3(s)),n=s.yb(B.h7,"Update DAPNET",B.ew,"Clear DAPNET",new A.an4(s),new A.an5(s)),m=s.yb(B.h7,"Update Repeaters",B.ew,"Clear Repeaters",new A.an6(s),new A.an7(s)),l=s.y?r:s.ga9F(),k=t.p
+return A.dk(new A.cV(q,B.af,r),A.bP(A.a([A.eW(A.cb(r,new A.bl(B.Y,A.ev(A.bP(A.a([p,B.cD,o,B.cD,n,B.cD,m,B.a1,A.pc(B.IF,B.a07,l,A.pd(r,r,B.eQ,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r)),B.a1,A.pc(B.Ix,B.a_z,new A.an8(s),A.pd(r,r,B.hr,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r)),B.UT,A.pc(B.ID,B.a_Z,new A.an9(s),A.pd(r,r,B.eQ,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r)),B.a1,A.pc(B.Iy,B.a_K,new A.ana(s),A.pd(r,r,B.eP,r,r,r,r,r,r,B.j,r,B.cC,B.cu,r,r,r,r,r,r))],k),B.am,B.v,B.t),r),r),B.m,r,r,B.ai,r,r,r,r),1)],k),B.z,B.v,B.t),!1)},
 yb(a,b,c,d,e,f){var s=null
 return A.fn(A.a([A.eW(A.pc(A.jG(a,s,s,s),A.ad(b,s,s,s,s,s,s),e,A.pd(s,s,B.P5,s,s,s,s,s,s,B.j,s,B.cC,B.cu,s,s,s,s,s,s)),1),B.i1,A.eW(A.pc(A.jG(c,s,s,s),A.ad(d,s,s,s,s,s,s),f,A.pd(s,s,B.eP,s,s,s,s,s,s,B.j,s,B.cC,B.cu,s,s,s,s,s,s)),1)],t.p),B.z,B.v,B.t)}}
 A.amU.prototype={
@@ -88504,7 +88504,7 @@ case 2:q.W(new p.anG(q,b))
 return A.p(null,r)}})
 return A.q($async$yw,r)},
 G(a){var s=null
-return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a_V),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator2.jpg",B.c2,299,200),s,s),B.a6,A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),B.a6,B.AP],t.p),B.z,B.bC,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
+return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a_W),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator2.jpg",B.c2,299,200),s,s),B.a6,A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),B.a6,B.AP],t.p),B.z,B.bC,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
 A.anH.prototype={
 $0(){var s=this.a,r=this.b.a,q=A.cY(r.h(0,"foundEasterEggs"))
 s.d=q==null?0:q
@@ -88576,7 +88576,7 @@ case 2:q.W(new p.anK(q,b))
 return A.p(null,r)}})
 return A.q($async$yA,r)},
 G(a){var s=null
-return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a02),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator4.jpg",B.c2,232,200),s,s),B.a6,A.e1(A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),s,s),B.a6,B.a_E],t.p),B.am,B.v,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
+return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a04),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator4.jpg",B.c2,232,200),s,s),B.a6,A.e1(A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),s,s),B.a6,B.a_E],t.p),B.am,B.v,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
 A.anL.prototype={
 $0(){var s=this.a,r=this.b.a,q=A.cY(r.h(0,"foundEasterEggs"))
 s.d=q==null?0:q
@@ -88684,7 +88684,7 @@ case 2:q.W(new p.anQ(q,b))
 return A.p(null,r)}})
 return A.q($async$yG,r)},
 G(a){var s=null
-return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a_K),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator7.jpg",B.c2,156,200),s,s),B.a6,A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),B.a6,B.lL],t.p),B.z,B.bC,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
+return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a_L),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator7.jpg",B.c2,156,200),s,s),B.a6,A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),B.a6,B.lL],t.p),B.z,B.bC,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
 A.anR.prototype={
 $0(){var s=this.a,r=this.b.a,q=A.cY(r.h(0,"foundEasterEggs"))
 s.d=q==null?0:q
@@ -88720,7 +88720,7 @@ case 2:q.W(new p.anS(q,b))
 return A.p(null,r)}})
 return A.q($async$yI,r)},
 G(a){var s=null
-return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a_T),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator8.jpg",B.c2,113,200),s,s),B.a6,A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),B.a6,B.mr,B.da,B.Ae],t.p),B.z,B.bC,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
+return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a_U),B.af,s),A.cb(s,new A.bl(B.Y,A.ev(A.bP(A.a([A.e1(A.i1("assets/images/operator8.jpg",B.c2,113,200),s,s),B.a6,A.ad("Foxes Found: "+this.d+"/10",s,s,s,B.cf,s,s),B.a6,B.mr,B.da,B.Ae],t.p),B.z,B.bC,B.t),s),s),B.m,s,s,B.ai,1/0,s,s,1/0),!1)}}
 A.anT.prototype={
 $0(){var s=this.a,r=this.b.a,q=A.cY(r.h(0,"foundEasterEggs"))
 s.d=q==null?0:q
@@ -88864,7 +88864,7 @@ r=A.di(new A.ao6(),p,t.z)
 A.bD(s,!1).d1(r)
 break
 default:break}},
-G(a){var s=this,r=null,q=t.p,p=A.dm(A.a([A.zi(r,B.IB,r,new A.aoa(s),r,r)],q),!0,B.Z,!0,0,B.a0f)
+G(a){var s=this,r=null,q=t.p,p=A.dm(A.a([A.zi(r,B.IB,r,new A.aoa(s),r,r)],q),!0,B.Z,!0,0,B.a0h)
 q=A.a([B.a6,A.i1("assets/images/foxhunt.gif",r,150,r),B.a6,A.ad("Foxes Found: "+s.d+"/10",r,r,r,B.bZ,r,r),B.a6,A.eW(A.a8B(new A.aob(s),10,r),1),B.a6],q)
 if(s.d>=3)q.push(A.a4e(!1,B.a0B,r,r,B.dE,r,r,r,r,new A.aoc(a),r,r))
 return A.dk(new A.cV(p,B.af,r),A.cb(r,A.bP(q,B.z,B.v,B.t),B.m,r,r,B.ai,r,r,r,r),!1)}}
@@ -89232,7 +89232,7 @@ A.x1(!0,new A.aqW(this.b),s,t.z)},
 $S:0}
 A.aqW.prototype={
 $1(a){var s=null,r=A.ev(A.NX(s,s,s,B.bs,s,s,!0,s,A.cz(this.a,s,B.A8,s),B.aC,s,s,B.a9,B.ay),s)
-return A.Io(A.a([A.nO(B.la,new A.aqV(a),s)],t.p),r,B.a00)},
+return A.Io(A.a([A.nO(B.la,new A.aqV(a),s)],t.p),r,B.a02)},
 $S:62}
 A.aqV.prototype={
 $0(){A.bD(this.a,!1).cR()},
@@ -89258,7 +89258,7 @@ while(true)switch(s){case 0:s=2
 return A.l(q.e.wU(new A.ID("assets/audio/applause.mp3",null)),$async$zF)
 case 2:return A.p(null,r)}})
 return A.q($async$zF,r)},
-G(a){var s=null,r=A.dm(s,!0,B.Z,!0,0,B.a0H),q=A.a([B.a06,B.a6],t.p)
+G(a){var s=null,r=A.dm(s,!0,B.Z,!0,0,B.a0H),q=A.a([B.a08,B.a6],t.p)
 if(this.d)q.push(A.nO(B.a0I,new A.arw(a),A.azs(s,s,B.P6,s,s,s,s,s,s,B.k,s,s,s,s,s,s,s,s,s)))
 return A.dk(new A.cV(r,B.af,s),A.cb(s,A.e1(A.bP(q,B.z,B.bC,B.t),s,s),B.m,s,s,B.BM,s,s,s,s),!0)},
 l(){this.e.l()
@@ -89274,7 +89274,7 @@ $1(a){return new A.qn(null)},
 $S:547}
 A.Nd.prototype={
 G(a){var s=null,r=A.dm(s,!0,B.Z,!0,0,B.a_A),q=A.hR(12)
-return A.dk(new A.cV(r,B.af,s),A.cb(s,A.ev(A.iC(new A.bl(B.Y,A.bP(A.a([B.a_q,B.a1,B.a_D,B.a1,B.a0c,B.a1,A.ad("1. Information We Collect",s,s,s,B.bZ,s,s),A.ad("a. Personal Information",s,s,s,B.Ab,s,s),A.ad("User Callsign: The App may collect your callsign when inputted for certain features (e.g., Winner database).",s,s,s,B.aQ,s,s),A.ad("Shared Preferences: The App may store certain preferences, such as theme settings, color preferences, and any found Easter eggs (Foxhunt), callsign locally on your device. This information is not shared with any external servers.",s,s,s,B.aQ,s,s),A.ad("b. Non-Personal Information",s,s,s,B.Ab,s,s),A.ad("Device Information: We may collect non-personal information about your device (e.g., device model, operating system version) to enhance app performance.",s,s,s,B.aQ,s,s),B.a1,A.ad("2. How We Use Your Information",s,s,s,B.bZ,s,s),A.ad("User Preferences: Personalize your experience, such as theme modes (light, dark, custom), color settings and callsign, which are stored locally.",s,s,s,B.aQ,s,s),A.ad("Database Search: Facilitate searching for DMR users and callsigns from local stored databases.",s,s,s,B.aQ,s,s),A.ad("QRZ.com Image Retrieval: Fetch and display profile images from QRZ.com based on the callsign entered by the user.",s,s,s,B.aQ,s,s),A.ad("Foxhunt Features: Track Foxhunt discoveries for user enjoyment and show hints or status of found eggs (stored locally). When finishing the Fox Hunt then callsign, comment and device info are sent to the Winner Database thru API. The winners are stored in app_winners in format callsign comment date.",s,s,s,B.aQ,s,s),B.a1,A.ad("3. Data Storage",s,s,s,B.bZ,s,s),A.ad("All preferences and settings (e.g., color themes, found Foxhunt discoveries) are stored locally on your device. No personal data is transmitted or stored on external servers.",s,s,s,B.aQ,s,s),B.a1,A.ad("4. Data Sharing and Disclosure",s,s,s,B.bZ,s,s),A.ad("We do not share, sell, or transfer your personal information to third parties. The App only connects to external services (e.g., QRZ.com) when explicitly required to retrieve images based on callsign inputs. However, such third-party services may collect their own data according to their privacy policies.",s,s,s,B.aQ,s,s),B.a1,A.ad("5. External Links",s,s,s,B.bZ,s,s),A.ad("The App includes links to third-party websites, such as QRZ.com and Google Spreadsheets and Hamradio VoIP websites. We are not responsible for the privacy practices of these external websites and encourage you to review their policies before sharing any personal information.",s,s,s,B.aQ,s,s),B.a1,A.ad("6. Security of Your Information",s,s,s,B.bZ,s,s),A.ad("We are committed to protecting the security of your data. While we take reasonable steps to secure your personal information, please note that no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.",s,s,s,B.aQ,s,s),B.a1,A.ad("7. Children's Privacy",s,s,s,B.bZ,s,s),A.ad("The App is not intended for children under the age of 13. We do not knowingly collect personal information from children. If we learn that we have inadvertently collected personal information from a child, we will delete such information as quickly as possible.",s,s,s,B.aQ,s,s),B.a1,A.ad("8. Changes to This Privacy Policy",s,s,s,B.bZ,s,s),A.ad("We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted here, and we encourage you to review the Privacy Policy regularly.",s,s,s,B.aQ,s,s),B.a1,A.ad("9. Contact Us",s,s,s,B.bZ,s,s),A.ad("If you have any questions or concerns about this Privacy Policy or the practices of the App, please contact us thru the app.",s,s,s,B.aQ,s,s)],t.p),B.am,B.v,B.t),s),5,B.dy,new A.ce(q,B.o)),s),B.m,s,s,B.ai,s,s,B.Y,s),!1)}}
+return A.dk(new A.cV(r,B.af,s),A.cb(s,A.ev(A.iC(new A.bl(B.Y,A.bP(A.a([B.a_q,B.a1,B.a_D,B.a1,B.a0e,B.a1,A.ad("1. Information We Collect",s,s,s,B.bZ,s,s),A.ad("a. Personal Information",s,s,s,B.Ab,s,s),A.ad("User Callsign: The App may collect your callsign when inputted for certain features (e.g., Winner database).",s,s,s,B.aQ,s,s),A.ad("Shared Preferences: The App may store certain preferences, such as theme settings, color preferences, and any found Easter eggs (Foxhunt), callsign locally on your device. This information is not shared with any external servers.",s,s,s,B.aQ,s,s),A.ad("b. Non-Personal Information",s,s,s,B.Ab,s,s),A.ad("Device Information: We may collect non-personal information about your device (e.g., device model, operating system version) to enhance app performance.",s,s,s,B.aQ,s,s),B.a1,A.ad("2. How We Use Your Information",s,s,s,B.bZ,s,s),A.ad("User Preferences: Personalize your experience, such as theme modes (light, dark, custom), color settings and callsign, which are stored locally.",s,s,s,B.aQ,s,s),A.ad("Database Search: Facilitate searching for DMR users and callsigns from local stored databases.",s,s,s,B.aQ,s,s),A.ad("QRZ.com Image Retrieval: Fetch and display profile images from QRZ.com based on the callsign entered by the user.",s,s,s,B.aQ,s,s),A.ad("Foxhunt Features: Track Foxhunt discoveries for user enjoyment and show hints or status of found eggs (stored locally). When finishing the Fox Hunt then callsign, comment and device info are sent to the Winner Database thru API. The winners are stored in app_winners in format callsign comment date.",s,s,s,B.aQ,s,s),B.a1,A.ad("3. Data Storage",s,s,s,B.bZ,s,s),A.ad("All preferences and settings (e.g., color themes, found Foxhunt discoveries) are stored locally on your device. No personal data is transmitted or stored on external servers.",s,s,s,B.aQ,s,s),B.a1,A.ad("4. Data Sharing and Disclosure",s,s,s,B.bZ,s,s),A.ad("We do not share, sell, or transfer your personal information to third parties. The App only connects to external services (e.g., QRZ.com) when explicitly required to retrieve images based on callsign inputs. However, such third-party services may collect their own data according to their privacy policies.",s,s,s,B.aQ,s,s),B.a1,A.ad("5. External Links",s,s,s,B.bZ,s,s),A.ad("The App includes links to third-party websites, such as QRZ.com and Google Spreadsheets and Hamradio VoIP websites. We are not responsible for the privacy practices of these external websites and encourage you to review their policies before sharing any personal information.",s,s,s,B.aQ,s,s),B.a1,A.ad("6. Security of Your Information",s,s,s,B.bZ,s,s),A.ad("We are committed to protecting the security of your data. While we take reasonable steps to secure your personal information, please note that no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.",s,s,s,B.aQ,s,s),B.a1,A.ad("7. Children's Privacy",s,s,s,B.bZ,s,s),A.ad("The App is not intended for children under the age of 13. We do not knowingly collect personal information from children. If we learn that we have inadvertently collected personal information from a child, we will delete such information as quickly as possible.",s,s,s,B.aQ,s,s),B.a1,A.ad("8. Changes to This Privacy Policy",s,s,s,B.bZ,s,s),A.ad("We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted here, and we encourage you to review the Privacy Policy regularly.",s,s,s,B.aQ,s,s),B.a1,A.ad("9. Contact Us",s,s,s,B.bZ,s,s),A.ad("If you have any questions or concerns about this Privacy Policy or the practices of the App, please contact us thru the app.",s,s,s,B.aQ,s,s)],t.p),B.am,B.v,B.t),s),5,B.dy,new A.ce(q,B.o)),s),B.m,s,s,B.ai,s,s,B.Y,s),!1)}}
 A.qn.prototype={
 a5(){var s=$.av()
 return new A.Fu(new A.j9(B.db,s),new A.j9(B.db,s),new A.j9(B.db,s),new A.j9(B.db,s))}}
@@ -89608,8 +89608,8 @@ o.toString
 A.x1(!0,new A.asZ(a,p),o,t.z)
 return A.p(null,r)}})
 return A.q($async$zZ,r)},
-G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a_R),p=t.N,o=A.aDa(B.IW,B.KA,new A.at7(s),s.f,p),n=s.r,m=t.p
-p=A.bP(A.a([o,B.a1,A.aDa(B.IX,s.PZ(),new A.at8(s),n,p),B.a1,A.aSC(B.IV,new A.at9(s),new A.ata()),B.a1,A.a4e(!1,B.a0k,r,r,B.dE,r,r,r,r,new A.atb(s,a),r,r)],m),B.z,B.v,B.t)
+G(a){var s=this,r=null,q=A.dm(r,!0,B.Z,!0,0,B.a_S),p=t.N,o=A.aDa(B.IW,B.KA,new A.at7(s),s.f,p),n=s.r,m=t.p
+p=A.bP(A.a([o,B.a1,A.aDa(B.IX,s.PZ(),new A.at8(s),n,p),B.a1,A.aSC(B.IV,new A.at9(s),new A.ata()),B.a1,A.a4e(!1,B.a0m,r,r,B.dE,r,r,r,r,new A.atb(s,a),r,r)],m),B.z,B.v,B.t)
 return A.dk(new A.cV(q,B.af,r),A.cb(r,A.bP(A.a([new A.z8(p,B.iG,s.d),B.da,A.ad("Result(s): "+J.c2(s.x),r,r,r,B.aQ,r,r),B.UU,A.eW(A.a8B(new A.atc(s),J.c2(s.x),r),1)],m),B.z,B.v,B.t),B.m,r,r,B.ai,r,r,B.Y,r),!1)}}
 A.asW.prototype={
 $0(){this.b.x=this.a.a},
@@ -89809,7 +89809,7 @@ p.f.fp(B.V6)
 return A.p(null,r)}})
 return A.q($async$tQ,r)},
 G(a){var s=null,r=t.p
-return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a0n),B.af,s),A.cb(s,A.bP(A.a([A.eW(A.ev(A.bP(A.a([B.a_O,B.a1,A.aiT(!0,B.cb,!1,s,!0,B.w,s,A.aB3(),this.d,s,s,s,s,s,2,B.IU,B.a2,!0,s,!0,s,!1,s,B.cF,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,!1,s,!0,s,B.fQ,s,s,B.cp,B.c3,s,s,s,s,s,s,s,B.aC,s,B.i3,s,s,s,s),B.cD,A.fn(A.a([A.eW(A.pc(B.IC,B.a_t,new A.aty(this),A.pd(s,s,B.eQ,s,s,s,s,s,s,B.j,s,B.cC,B.cu,s,s,s,s,s,s)),1),B.i1,A.eW(A.pc(B.IA,B.a_Y,new A.atz(this),A.pd(s,s,B.eP,s,s,s,s,s,s,B.j,s,B.cC,B.cu,s,s,s,s,s,s)),1)],r),B.z,B.v,B.t)],r),B.am,B.v,B.t),B.Y),1)],r),B.z,B.v,B.t),B.m,s,s,B.ai,s,s,s,s),!1)}}
+return A.dk(new A.cV(A.dm(s,!0,B.Z,!0,0,B.a0p),B.af,s),A.cb(s,A.bP(A.a([A.eW(A.ev(A.bP(A.a([B.a_P,B.a1,A.aiT(!0,B.cb,!1,s,!0,B.w,s,A.aB3(),this.d,s,s,s,s,s,2,B.IU,B.a2,!0,s,!0,s,!1,s,B.cF,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,!1,s,!0,s,B.fQ,s,s,B.cp,B.c3,s,s,s,s,s,s,s,B.aC,s,B.i3,s,s,s,s),B.cD,A.fn(A.a([A.eW(A.pc(B.IC,B.a_t,new A.aty(this),A.pd(s,s,B.eQ,s,s,s,s,s,s,B.j,s,B.cC,B.cu,s,s,s,s,s,s)),1),B.i1,A.eW(A.pc(B.IA,B.a0_,new A.atz(this),A.pd(s,s,B.eP,s,s,s,s,s,s,B.j,s,B.cC,B.cu,s,s,s,s,s,s)),1)],r),B.z,B.v,B.t)],r),B.am,B.v,B.t),B.Y),1)],r),B.z,B.v,B.t),B.m,s,s,B.ai,s,s,s,s),!1)}}
 A.atx.prototype={
 $1(a){return B.n9},
 $S:210}
@@ -89827,7 +89827,7 @@ a5(){var s="Internal Testers",r="Development Stage: *not yet*",q=t.s,p=t.N,o=t.z
 return new A.Xc(A.a([A.M(["name","PD8JO","stages",A.a(["First Tester","Internal Tester","Alpha Tester","Beta Tester"],q)],p,o),A.M(["name","PH4T","stages",A.a(["First Tester"],q)],p,o),A.M(["name","PA3EKE","stages",A.a(["First Tester"],q)],p,o),A.M(["name","PD1LOI","stages",A.a(["Internal Tester"],q)],p,o),A.M(["name","PA3DFI","stages",A.a(["Internal Tester"],q)],p,o),A.M(["name","PD1HPB","stages",A.a(["Internal Tester"],q)],p,o),A.M(["name","Join our Test Team? Mail/Message/Call us","stages",A.a(["Internal Tester","Alpha Tester","Beta Tester"],q)],p,o)],t.H7),A.M(["First Testers","The first group of testers who provided valuable feedback during initial development.",s,"Testers from within the community who help to identify issues and suggest improvements.","Alpha Testers","Early adopters who test new features and provided insights before wider releases.","Beta Testers","A group of testers who evaluate the product before its official launch."],p,p),A.M(["First Testers","Development Stage: *done*",s,"Development Stage: running","Alpha Testers",r,"Beta Testers",r],p,p),A.M(["First Testers",B.bD,s,B.P9,"Alpha Testers",B.hr,"Beta Testers",B.Pa],p,t.n8))}}
 A.Xc.prototype={
 G(a){var s=this,r=null
-return A.dk(new A.cV(A.dm(r,!0,B.Z,!0,0,B.a_I),B.af,r),A.cb(r,A.e1(new A.bl(B.Y,A.ev(A.bP(A.a([B.a_M,B.a6,B.a_J,B.a6,s.ye("First Testers","First Tester"),B.a6,s.ye("Internal Testers","Internal Tester"),B.a6,s.ye("Alpha Testers","Alpha Tester"),B.a6,s.ye("Beta Testers","Beta Tester")],t.p),B.z,B.bC,B.t),r),r),r,r),B.m,r,r,B.ai,r,r,r,r),!1)},
+return A.dk(new A.cV(A.dm(r,!0,B.Z,!0,0,B.a_I),B.af,r),A.cb(r,A.e1(new A.bl(B.Y,A.ev(A.bP(A.a([B.a_N,B.a6,B.a_J,B.a6,s.ye("First Testers","First Tester"),B.a6,s.ye("Internal Testers","Internal Tester"),B.a6,s.ye("Alpha Testers","Alpha Tester"),B.a6,s.ye("Beta Testers","Beta Tester")],t.p),B.z,B.bC,B.t),r),r),r,r),B.m,r,r,B.ai,r,r,r,r),!1)},
 ye(a,b){var s,r,q,p=this,o=null,n=p.d,m=A.Y(n).i("aH<1>"),l=A.a7(new A.aH(n,new A.atW(b),m),!0,m.i("w.E"))
 m=A.hR(12)
 n=p.r
@@ -89839,7 +89839,7 @@ r=A.ad(r,o,o,o,B.i6,o,o)
 q=p.f.h(0,a)
 q.toString
 s=A.a([n,B.da,r,B.da,A.ad(q,o,o,o,B.YP,o,o),B.da],s)
-if(l.length===0)s.push(B.a0e)
+if(l.length===0)s.push(B.a0g)
 else{n=A.Y(l).i("a2<1,mA>")
 s.push(A.bP(A.a7(new A.a2(l,new A.atX(),n),!0,n.i("ai.E")),B.z,B.v,B.t))}return A.iC(new A.bl(B.Y,A.bP(s,B.am,B.v,B.t),o),5,B.bz,new A.ce(m,B.o))}}
 A.atW.prototype={
@@ -89887,7 +89887,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$u0,r)},
 Sd(a){var s=J.mm(B.aT.cz(a),new A.av7(),t.GU)
 return A.a7(s,!0,s.$ti.i("ai.E"))},
-G(a){var s,r=this,q=null,p=A.dm(q,!0,B.Z,!0,0,B.a09)
+G(a){var s,r=this,q=null,p=A.dm(q,!0,B.Z,!0,0,B.a0b)
 if(r.e)s=B.iM
 else if(r.f)s=B.Dz
 else{s=r.d.length
@@ -94509,15 +94509,15 @@ B.Y=new A.aD(16,16,16,16)
 B.k=new A.m(4278190080)
 B.aY=new A.u(!0,B.k,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ce=new A.lE(0,"left")
-B.a0z=new A.ar("Albert Einstein was a revolutionary physicist whose theories transformed our understanding of the universe. His theory of relativity, particularly the famous equation E=mc\xb2, introduced new concepts of space and time. Einstein\u2019s work laid the foundation for modern physics, influencing countless scientific advancements and our comprehension of cosmic phenomena. His contributions remain integral to both theoretical and practical aspects of physics, symbolizing the power of intellectual curiosity and perseverance.",null,B.aY,B.ce,null,null,null,null,null)
-B.Qx=new A.bl(B.Y,B.a0z,null)
+B.a0A=new A.ar("Albert Einstein was a revolutionary physicist whose theories transformed our understanding of the universe. His theory of relativity, particularly the famous equation E=mc\xb2, introduced new concepts of space and time. Einstein\u2019s work laid the foundation for modern physics, influencing countless scientific advancements and our comprehension of cosmic phenomena. His contributions remain integral to both theoretical and practical aspects of physics, symbolizing the power of intellectual curiosity and perseverance.",null,B.aY,B.ce,null,null,null,null,null)
+B.Qx=new A.bl(B.Y,B.a0A,null)
 B.lL=new A.du(B.cI,null,null,B.Qx,null)
 B.a_u=new A.ar("When setting up your radio\u2019s codeplug, it\u2019s essential to configure the receive (RX) and transmit (TX) frequencies and Talkgroup (TG) correctly. Ensuring these are properly aligned guarantees clear and effective communication with other stations. Additionally, keeping your codeplug updated with the latest settings and firmware ensures compatibility with new repeaters and digital modes. Always download the latest version of your radio\u2019s firmware or codeplug software to stay up to date with the latest improvements and fixes.",null,B.aY,B.ce,null,null,null,null,null)
 B.AO=new A.du(B.cI,null,null,B.a_u,null)
-B.a0y=new A.ar("In amateur radio, a callsign is a unique identifier assigned to licensed operators. These callsigns are used to identify individuals during transmissions, ensuring clear communication over the airwaves. Callsigns consist of a prefix, indicating the country or region of origin, followed by a set of letters and numbers that are unique to the operator. They serve as both a practical tool for communication and a badge of honor for operators worldwide.",null,B.aY,B.ce,null,null,null,null,null)
-B.AP=new A.du(B.cI,null,null,B.a0y,null)
-B.a0j=new A.ar("Amateur radio, also known as ham radio, remains a vital global hobby and service. Operators, known as hams, use designated frequency bands to communicate over long distances, provide emergency communication services, and experiment with radio technology. \n\nRecent events have highlighted the critical role amateur radio plays during natural disasters. When internet and cell towers fail, ham operators have stepped in to provide emergency communication links for first responders and communities. In some regions, amateur radio networks are actively involved in helping relay disaster-related information.\n\nMoreover, ham radio clubs continue to thrive globally, hosting weekly nets and contests to maintain community spirit and technical skills. From the latest developments in digital modes like FT8 to traditional voice communication, the world of amateur radio is always evolving. New operators are continuously joining the ranks, eager to experiment with antennas, radios, and software-defined radio (SDR) technologies.\n\nFor anyone looking to get involved, now is a great time to explore this rewarding hobby. Whether it\u2019s building your own equipment, participating in global contests, or simply making new friends over the airwaves, amateur radio offers something for everyone. Tune in, key up, and join the conversation!",null,B.aY,B.ce,null,null,null,null,null)
-B.AQ=new A.du(B.cI,null,null,B.a0j,null)
+B.a0z=new A.ar("In amateur radio, a callsign is a unique identifier assigned to licensed operators. These callsigns are used to identify individuals during transmissions, ensuring clear communication over the airwaves. Callsigns consist of a prefix, indicating the country or region of origin, followed by a set of letters and numbers that are unique to the operator. They serve as both a practical tool for communication and a badge of honor for operators worldwide.",null,B.aY,B.ce,null,null,null,null,null)
+B.AP=new A.du(B.cI,null,null,B.a0z,null)
+B.a0l=new A.ar("Amateur radio, also known as ham radio, remains a vital global hobby and service. Operators, known as hams, use designated frequency bands to communicate over long distances, provide emergency communication services, and experiment with radio technology. \n\nRecent events have highlighted the critical role amateur radio plays during natural disasters. When internet and cell towers fail, ham operators have stepped in to provide emergency communication links for first responders and communities. In some regions, amateur radio networks are actively involved in helping relay disaster-related information.\n\nMoreover, ham radio clubs continue to thrive globally, hosting weekly nets and contests to maintain community spirit and technical skills. From the latest developments in digital modes like FT8 to traditional voice communication, the world of amateur radio is always evolving. New operators are continuously joining the ranks, eager to experiment with antennas, radios, and software-defined radio (SDR) technologies.\n\nFor anyone looking to get involved, now is a great time to explore this rewarding hobby. Whether it\u2019s building your own equipment, participating in global contests, or simply making new friends over the airwaves, amateur radio offers something for everyone. Tune in, key up, and join the conversation!",null,B.aY,B.ce,null,null,null,null,null)
+B.AQ=new A.du(B.cI,null,null,B.a0l,null)
 B.AR=new A.fd(0,1)
 B.AS=new A.fd(0,-1)
 B.a3M=new A.fd(1,0)
@@ -94956,8 +94956,8 @@ B.A7=new A.u(!0,B.k,null,null,null,null,18,B.aH,null,null,null,null,null,null,nu
 B.a_o=new A.ar("Weekly DMR Nets:\n\n",null,B.A7,null,null,null,null,null,null)
 B.mr=new A.eG(B.X,null,null,B.a_o,null)
 B.fc=new A.u(!0,B.k,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0d=new A.ar("Failed to load winners!",null,B.fc,null,null,null,null,null,null)
-B.Dz=new A.eG(B.X,null,null,B.a0d,null)
+B.a0f=new A.ar("Failed to load winners!",null,B.fc,null,null,null,null,null,null)
+B.Dz=new A.eG(B.X,null,null,B.a0f,null)
 B.j=new A.m(4294967295)
 B.Wt=new A.u(!0,B.j,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0E=new A.ar("\xa9 2024 DMR User Database Team",null,B.Wt,null,null,null,null,null,null)
@@ -94971,8 +94971,8 @@ B.DD=new A.eG(B.X,null,null,B.a_v,null)
 B.a49=new A.akD(0,"material")
 B.DH=new A.xT(null,null,null,null,null,null,null)
 B.iM=new A.eG(B.X,null,null,B.DH,null)
-B.a0m=new A.ar("No data available",null,null,null,null,null,null,null,null)
-B.DE=new A.eG(B.X,null,null,B.a0m,null)
+B.a0o=new A.ar("No data available",null,null,null,null,null,null,null,null)
+B.DE=new A.eG(B.X,null,null,B.a0o,null)
 B.DF=new A.xR(null,null,null,null,null,null,null,null,null)
 B.DG=new A.xS(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ms=new A.e2(0,B.o)
@@ -95203,18 +95203,18 @@ B.a_x=new A.ar("State",null,null,null,null,null,null,null,null)
 B.fL=new A.ec("state",B.a_x,B.b1,null,t.b7)
 B.a0J=new A.ar("Country",null,null,null,null,null,null,null,null)
 B.fM=new A.ec("country",B.a0J,B.b1,null,t.b7)
-B.a04=new A.ar("Last Name",null,null,null,null,null,null,null,null)
-B.GI=new A.ec("last_name",B.a04,B.b1,null,t.b7)
-B.a0t=new A.ar("First Name",null,null,null,null,null,null,null,null)
-B.GJ=new A.ec("first_name",B.a0t,B.b1,null,t.b7)
+B.a06=new A.ar("Last Name",null,null,null,null,null,null,null,null)
+B.GI=new A.ec("last_name",B.a06,B.b1,null,t.b7)
+B.a0u=new A.ar("First Name",null,null,null,null,null,null,null,null)
+B.GJ=new A.ec("first_name",B.a0u,B.b1,null,t.b7)
 B.a_C=new A.ar("Callsign",null,null,null,null,null,null,null,null)
 B.fN=new A.ec("callsign",B.a_C,B.b1,null,t.b7)
-B.a_L=new A.ar("Name",null,null,null,null,null,null,null,null)
-B.GL=new A.ec("name",B.a_L,B.b1,null,t.b7)
-B.a0g=new A.ar("DMR ID",null,null,null,null,null,null,null,null)
-B.GM=new A.ec("radio_id",B.a0g,B.b1,null,t.b7)
-B.a0w=new A.ar("Extension",null,null,null,null,null,null,null,null)
-B.GN=new A.ec("extension",B.a0w,B.b1,null,t.b7)
+B.a_M=new A.ar("Name",null,null,null,null,null,null,null,null)
+B.GL=new A.ec("name",B.a_M,B.b1,null,t.b7)
+B.a0i=new A.ar("DMR ID",null,null,null,null,null,null,null,null)
+B.GM=new A.ec("radio_id",B.a0i,B.b1,null,t.b7)
+B.a0x=new A.ar("Extension",null,null,null,null,null,null,null,null)
+B.GN=new A.ec("extension",B.a0x,B.b1,null,t.b7)
 B.GP=new A.yF(null,null,null)
 B.r=new A.aC(0)
 B.b3=new A.aC(1e5)
@@ -95715,14 +95715,14 @@ B.Kr=A.a(s(["C","D","A","T","A","["]),t.s)
 B.Ku=A.a(s(["AM","PM"]),t.s)
 B.Kx=A.a(s([B.iC,B.iD]),A.at("F<xr>"))
 B.Ky=A.a(s(["BC","AD"]),t.s)
-B.a0h=new A.ar("Search RadioID Database",null,null,null,null,null,null,null,null)
-B.GO=new A.ec("radioid",B.a0h,B.b1,null,t.b7)
-B.a0i=new A.ar("Search HamVoip Database",null,null,null,null,null,null,null,null)
-B.GK=new A.ec("hamvoip",B.a0i,B.b1,null,t.b7)
+B.a0j=new A.ar("Search RadioID Database",null,null,null,null,null,null,null,null)
+B.GO=new A.ec("radioid",B.a0j,B.b1,null,t.b7)
+B.a0k=new A.ar("Search HamVoip Database",null,null,null,null,null,null,null,null)
+B.GK=new A.ec("hamvoip",B.a0k,B.b1,null,t.b7)
 B.a_y=new A.ar("Search Dapnet Database",null,null,null,null,null,null,null,null)
 B.GG=new A.ec("dapnet",B.a_y,B.b1,null,t.b7)
-B.a_N=new A.ar("Search Repeaters Database",null,null,null,null,null,null,null,null)
-B.GH=new A.ec("repeaters",B.a_N,B.b1,null,t.b7)
+B.a_O=new A.ar("Search Repeaters Database",null,null,null,null,null,null,null,null)
+B.GH=new A.ec("repeaters",B.a_O,B.b1,null,t.b7)
 B.KA=A.a(s([B.GO,B.GK,B.GG,B.GH]),t.FG)
 B.Ij=new A.cm(61998,"GoogleIcons",null,!1)
 B.nO=new A.d1(B.Ij,null,null,null,null)
@@ -97065,17 +97065,17 @@ B.Sr=new A.uj(4,"unknown")
 B.Ss=new A.AW(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ch=new A.aka(1,"down")
 B.da=new A.eK(null,10,null,null)
-B.a_W=new A.ar("Explore our databases to find information across multiple radio systems. Whether you're searching for Radio IDs, Callsigns, or detailed data from various radio networks, our user-friendly interface makes it easy to access the information you need.",null,B.aY,null,null,null,null,null,null)
+B.a_X=new A.ar("Explore our databases to find information across multiple radio systems. Whether you're searching for Radio IDs, Callsigns, or detailed data from various radio networks, our user-friendly interface makes it easy to access the information you need.",null,B.aY,null,null,null,null,null,null)
 B.a1=new A.eK(null,16,null,null)
 B.Wf=new A.u(!0,B.k,null,null,null,null,16,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0K=new A.ar("Discover and connect with the global radio community by exploring our databases:",null,B.Wf,null,null,null,null,null,null)
 B.cD=new A.eK(null,8,null,null)
-B.a0a=new A.ar("\u2022 RadioID Database: Find users by Radio ID, Callsign, Name, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
-B.a0b=new A.ar("\u2022 Hamvoip Database: Search for Ham radio operators by Extension, Callsign, Name, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
-B.a_U=new A.ar("\u2022 DAPNET Database: Search for DAPNET users by Callsign, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
-B.a0x=new A.ar("\u2022 Repeaters Database: Locate repeaters by Callsign, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
-B.a0v=new A.ar("Get started by selecting search from the menu and begin your journey!",null,B.aY,null,null,null,null,null,null)
-B.Kv=A.a(s([B.da,B.a_W,B.a1,B.a0K,B.cD,B.a0a,B.a0b,B.a_U,B.a0x,B.a1,B.a0v]),t.p)
+B.a0c=new A.ar("\u2022 RadioID Database: Find users by Radio ID, Callsign, Name, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
+B.a0d=new A.ar("\u2022 Hamvoip Database: Search for Ham radio operators by Extension, Callsign, Name, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
+B.a_V=new A.ar("\u2022 DAPNET Database: Search for DAPNET users by Callsign, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
+B.a0y=new A.ar("\u2022 Repeaters Database: Locate repeaters by Callsign, City, State, or Country.",null,B.aY,null,null,null,null,null,null)
+B.a0w=new A.ar("Get started by selecting search from the menu and begin your journey!",null,B.aY,null,null,null,null,null,null)
+B.Kv=A.a(s([B.da,B.a_X,B.a1,B.a0K,B.cD,B.a0c,B.a0d,B.a_V,B.a0y,B.a1,B.a0w]),t.p)
 B.FU=new A.mA(B.at,B.v,B.t,B.am,null,B.ch,null,B.Kv,null)
 B.yW=new A.Op(0,"manual")
 B.UH=new A.Ch(B.Y,B.FU,null)
@@ -97375,28 +97375,28 @@ B.V_=new A.k2(3,"hide")
 B.a47=new A.k2(4,"remove")
 B.zR=new A.k2(5,"timeout")
 B.V0=new A.v2(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_Q=new A.ar("Please enter a valid Callsign",null,null,null,null,null,null,null,null)
-B.V1=new A.eL(B.a_Q,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a_R=new A.ar("Please enter a valid Callsign",null,null,null,null,null,null,null,null)
+B.V1=new A.eL(B.a_R,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
 B.a_G=new A.ar("Failed to update all data",null,null,null,null,null,null,null,null)
 B.V2=new A.eL(B.a_G,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a01=new A.ar("Replace old Database",null,null,null,null,null,null,null,null)
-B.V3=new A.eL(B.a01,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a_P=new A.ar("Downloading new Database",null,null,null,null,null,null,null,null)
-B.V4=new A.eL(B.a_P,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a_X=new A.ar("All databases cleared!",null,null,null,null,null,null,null,null)
-B.V5=new A.eL(B.a_X,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a_Z=new A.ar("Callsign cleared!",null,null,null,null,null,null,null,null)
-B.V6=new A.eL(B.a_Z,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a0p=new A.ar("Saving new Database",null,null,null,null,null,null,null,null)
-B.V7=new A.eL(B.a0p,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a0_=new A.ar("All data updated!",null,null,null,null,null,null,null,null)
-B.V8=new A.eL(B.a0_,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a03=new A.ar("Replace old Database",null,null,null,null,null,null,null,null)
+B.V3=new A.eL(B.a03,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a_Q=new A.ar("Downloading new Database",null,null,null,null,null,null,null,null)
+B.V4=new A.eL(B.a_Q,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a_Y=new A.ar("All databases cleared!",null,null,null,null,null,null,null,null)
+B.V5=new A.eL(B.a_Y,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a00=new A.ar("Callsign cleared!",null,null,null,null,null,null,null,null)
+B.V6=new A.eL(B.a00,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a0r=new A.ar("Saving new Database",null,null,null,null,null,null,null,null)
+B.V7=new A.eL(B.a0r,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a01=new A.ar("All data updated!",null,null,null,null,null,null,null,null)
+B.V8=new A.eL(B.a01,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
 B.a0F=new A.ar("Failed to clear all databases",null,null,null,null,null,null,null,null)
 B.V9=new A.eL(B.a0F,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a0q=new A.ar("Callsign saved!",null,null,null,null,null,null,null,null)
-B.Va=new A.eL(B.a0q,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
-B.a0s=new A.ar("Network test successful!",null,null,null,null,null,null,null,null)
-B.Vb=new A.eL(B.a0s,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a0s=new A.ar("Callsign saved!",null,null,null,null,null,null,null,null)
+B.Va=new A.eL(B.a0s,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
+B.a0t=new A.ar("Network test successful!",null,null,null,null,null,null,null,null)
+B.Vb=new A.eL(B.a0t,null,null,null,null,null,null,null,null,null,null,null,null,B.aL,null,null,null,B.w,null)
 B.zS=new A.Cp(0,"permissive")
 B.Vc=new A.Cp(1,"normal")
 B.Vd=new A.Cp(2,"forced")
@@ -97782,33 +97782,33 @@ B.a_H=new A.ar("Here you can find various ways to get in touch with us.",null,B.
 B.a_I=new A.ar("Thank you to all testers",null,B.ag,null,null,null,null,null,null)
 B.Wv=new A.u(!0,B.j,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a_J=new A.ar("To our amazing testers:",null,B.Wv,B.dZ,null,null,null,null,null)
-B.a_K=new A.ar("Foxhunt 7 - PD2EMC",null,B.ag,null,null,null,null,null,null)
+B.a_K=new A.ar("Clear All (Web & Emergency)",null,null,null,null,null,null,null,null)
+B.a_L=new A.ar("Foxhunt 7 - PD2EMC",null,B.ag,null,null,null,null,null,null)
 B.Xd=new A.u(!0,B.j,null,null,null,null,32,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_M=new A.ar("A Huge Thank You!",null,B.Xd,B.dZ,null,null,null,null,null)
-B.a_O=new A.ar("**Manage Your Callsign:**\n- You can enter and save or clear your callsign here. It is shown on the main screen topbar.\n\n",null,B.aY,null,null,null,null,null,null)
-B.a_R=new A.ar("Database Search",null,B.ag,null,null,null,null,null,null)
-B.a_S=new A.ar("You can also reach us by Phone:",null,B.fc,null,null,null,null,null,null)
-B.a_T=new A.ar("Foxhunt 8 - Weekly Nets",null,B.ag,null,null,null,null,null,null)
-B.a_V=new A.ar("Foxhunt 2 - Callsign",null,B.ag,null,null,null,null,null,null)
-B.a_Y=new A.ar("Clear Callsign",null,null,null,null,null,null,null,null)
-B.a00=new A.ar("Full News",null,null,null,null,null,null,null,null)
-B.a02=new A.ar("Foxhunt 4 - Repeater",null,B.ag,null,null,null,null,null,null)
-B.a03=new A.ar("Contact Options",null,B.ag,null,null,null,null,null,null)
-B.a05=new A.ar("Update Database",null,null,null,null,null,null,null,null)
-B.a06=new A.ar("\ud83c\udf89 Congratulations! You found all 10 Easter eggs! \ud83c\udf89",null,B.Ac,B.dZ,null,null,null,null,null)
-B.a07=new A.ar("Application Info",null,B.ag,null,null,null,null,null,null)
-B.a08=new A.ar("Online Contact Info",null,B.ag,null,null,null,null,null,null)
-B.a09=new A.ar("Foxhunt Winners",null,B.ag,null,null,null,null,null,null)
-B.a0c=new A.ar('DMR User Database Team and/or PD2EMC ("we," "our," or "us") respects your privacy and is committed to protecting any personal information that you share with us. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile application ("the App"). By using the App, you consent to the data practices described in this policy.',null,B.aQ,null,null,null,null,null,null)
-B.a0e=new A.ar("No testers yet.",null,B.i6,null,null,null,null,null,null)
-B.a0f=new A.ar("Foxhunt Page",null,B.ag,null,null,null,null,null,null)
-B.a0k=new A.ar("Search Database",null,null,null,null,null,null,null,null)
-B.a0l=new A.ar("Phone Contact Info",null,B.ag,null,null,null,null,null,null)
-B.a0n=new A.ar("User Settings",null,B.ag,null,null,null,null,null,null)
-B.a0o=new A.ar("Visit Website",null,null,null,null,null,null,null,null)
-B.a0r=new A.ar("Clear All (Emergency)",null,null,null,null,null,null,null,null)
-B.a0u=new A.ar("Database Settings",null,B.ag,null,null,null,null,null,null)
-B.a0A=new A.ar("Update All (Emergency)",null,null,null,null,null,null,null,null)
+B.a_N=new A.ar("A Huge Thank You!",null,B.Xd,B.dZ,null,null,null,null,null)
+B.a_P=new A.ar("**Manage Your Callsign:**\n- You can enter and save or clear your callsign here. It is shown on the main screen topbar.\n\n",null,B.aY,null,null,null,null,null,null)
+B.a_S=new A.ar("Database Search",null,B.ag,null,null,null,null,null,null)
+B.a_T=new A.ar("You can also reach us by Phone:",null,B.fc,null,null,null,null,null,null)
+B.a_U=new A.ar("Foxhunt 8 - Weekly Nets",null,B.ag,null,null,null,null,null,null)
+B.a_W=new A.ar("Foxhunt 2 - Callsign",null,B.ag,null,null,null,null,null,null)
+B.a_Z=new A.ar("Update All (Web & Emergency)",null,null,null,null,null,null,null,null)
+B.a0_=new A.ar("Clear Callsign",null,null,null,null,null,null,null,null)
+B.a02=new A.ar("Full News",null,null,null,null,null,null,null,null)
+B.a04=new A.ar("Foxhunt 4 - Repeater",null,B.ag,null,null,null,null,null,null)
+B.a05=new A.ar("Contact Options",null,B.ag,null,null,null,null,null,null)
+B.a07=new A.ar("Update Database",null,null,null,null,null,null,null,null)
+B.a08=new A.ar("\ud83c\udf89 Congratulations! You found all 10 Easter eggs! \ud83c\udf89",null,B.Ac,B.dZ,null,null,null,null,null)
+B.a09=new A.ar("Application Info",null,B.ag,null,null,null,null,null,null)
+B.a0a=new A.ar("Online Contact Info",null,B.ag,null,null,null,null,null,null)
+B.a0b=new A.ar("Foxhunt Winners",null,B.ag,null,null,null,null,null,null)
+B.a0e=new A.ar('DMR User Database Team and/or PD2EMC ("we," "our," or "us") respects your privacy and is committed to protecting any personal information that you share with us. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our mobile application ("the App"). By using the App, you consent to the data practices described in this policy.',null,B.aQ,null,null,null,null,null,null)
+B.a0g=new A.ar("No testers yet.",null,B.i6,null,null,null,null,null,null)
+B.a0h=new A.ar("Foxhunt Page",null,B.ag,null,null,null,null,null,null)
+B.a0m=new A.ar("Search Database",null,null,null,null,null,null,null,null)
+B.a0n=new A.ar("Phone Contact Info",null,B.ag,null,null,null,null,null,null)
+B.a0p=new A.ar("User Settings",null,B.ag,null,null,null,null,null,null)
+B.a0q=new A.ar("Visit Website",null,null,null,null,null,null,null,null)
+B.a0v=new A.ar("Database Settings",null,B.ag,null,null,null,null,null,null)
 B.a0B=new A.ar("View Winners",null,null,null,null,null,null,null,null)
 B.a0C=new A.ar("Foxhunt 3 - Settings",null,B.ag,null,null,null,null,null,null)
 B.la=new A.ar("Close",null,null,null,null,null,null,null,null)
